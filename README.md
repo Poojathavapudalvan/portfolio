@@ -240,7 +240,7 @@ Learned investment decisions, portfolio concepts and risk management.
 
 <div class="card">
 
-<h3> botique startup plan </h3>
+<h3> Boutique startup project </h3>
 
 <p>
 Developed startup idea, product planning and marketing approach.
