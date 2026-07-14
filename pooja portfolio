@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pooja T | MBA Portfolio</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background:#07182e;
+    color:white;
+}
+
+header{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:20px;
+}
+
+h1{
+    font-size:50px;
+    color:#d4af37;
+}
+
+h2{
+    color:#d4af37;
+    margin-bottom:20px;
+}
+
+p{
+    line-height:1.8;
+    color:#e5e5e5;
+}
+
+button{
+    margin-top:20px;
+    padding:12px 25px;
+    background:#d4af37;
+    border:none;
+    border-radius:25px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+section{
+    padding:60px 10%;
+}
+
+.card{
+    background:#102744;
+    padding:25px;
+    margin:15px 0;
+    border-radius:15px;
+    box-shadow:0 0 15px #000;
+}
+
+ul{
+    margin-left:20px;
+    line-height:2;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    background:#050f1f;
+    color:#d4af37;
+}
+
+nav{
+    position:fixed;
+    top:0;
+    width:100%;
+    padding:20px;
+    background:#07182e;
+    text-align:center;
+}
+
+nav a{
+    color:#d4af37;
+    text-decoration:none;
+    margin:15px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<nav>
+<a href="#about">About</a>
+<a href="#education">Education</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</nav>
+
+
+<header>
+<div>
+<h1>Pooja T</h1>
+
+<h2>MBA Finance & Marketing Student</h2>
+
+<p>
+Passionate MBA student interested in Finance, Marketing strategies,
+Business analysis and management skills.
+</p>
+
+<button>Explore My Portfolio</button>
+
+</div>
+</header>
+
+
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<div class="card">
+
+<p>
+I am currently pursuing MBA with specialization in Finance and Marketing.
+I have completed my Bachelor of Commerce in Accounting and Finance.
+
+I am interested in financial analysis, customer behaviour,
+marketing strategies and business development.
+I enjoy learning new concepts and applying my knowledge through academic projects.
+</p>
+
+</div>
+
+</section>
+
+
+
+<section id="education">
+
+<h2>Education</h2>
+
+<div class="card">
+
+<h3>Master of Business Administration (MBA)</h3>
+<p>Finance & Marketing</p>
+
+<br>
+
+<h3>Bachelor of Commerce (B.Com)</h3>
+<p>Accounting & Finance</p>
+
+</div>
+
+</section>
+
+
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<div class="card">
+
+<h3>Finance</h3>
+
+<ul>
+<li>Financial Analysis</li>
+<li>Accounting Fundamentals</li>
+<li>Cost Management</li>
+<li>Investment Basics</li>
+</ul>
+
+<br>
+
+<h3>Marketing</h3>
+
+<ul>
+<li>Consumer Behaviour</li>
+<li>Marketing Strategy</li>
+<li>Market Research</li>
+<li>Brand Management</li>
+</ul>
+
+
+<br>
+
+<h3>Soft Skills</h3>
+
+<ul>
+<li>Communication</li>
+<li>Leadership</li>
+<li>Problem Solving</li>
+<li>Teamwork</li>
+</ul>
+
+
+</div>
+
+</section>
+
+
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+
+<div class="card">
+
+<h3>Customer Journey Map for Credit Card Product</h3>
+
+<p>
+Studied customer experience stages and analysed customer needs
+to understand banking product improvements.
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>Portfolio Management Simulation</h3>
+
+<p>
+Learned investment decisions, portfolio concepts and risk management.
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>boutique Startup Project</h3>
+
+<p>
+Developed startup idea, product planning and marketing approach.
+</p>
+
+</div>
+
+
+</section>
+
+
+
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<div class="card">
+
+<p>Email: poojathavapudalvanl@gmail.com</p>
+
+<p>Phone: 994029998</p>
+
+</div>
+
+</section>
+
+
+
+<footer>
+
+© 2026 Pooja T | MBA Finance & Marketing Portfolio
+
+</footer>
+
+
+</body>
+</html>
