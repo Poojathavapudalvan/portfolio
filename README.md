@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Pooja T | MBA Portfolio</title>
+<title> Ashlin M| MBA Portfolio</title>
 
 <style>
 *{
@@ -106,7 +106,7 @@ nav a{
 
 <header>
 <div>
-<h1>Pooja T</h1>
+<h1>Ashlin M</h1>
 
 <h2>MBA Finance & Marketing Student</h2>
 
@@ -260,7 +260,7 @@ Developed startup idea, product planning and marketing approach.
 
 <div class="card">
 
-<p>Email: poojathavapudalvan@gmail.com</p>
+<p>Email: ashlin@gmail.com</p>
 
 <p>Phone:9940279998</p>
 
